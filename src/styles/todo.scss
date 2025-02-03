@@ -2,6 +2,10 @@ article {
     max-width: 400px;
     text-align: left;
     padding: 1rem;
-    border: 1px solid #e41d87;
+    border: 1px solid #000;
     border-radius: 10px;
+
+    button {
+        background-color: #e41d87;
+    }
 }
