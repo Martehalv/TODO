@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    box-shadow: 3px 16px 39px #e41d87;
+    padding: 2rem;
+    
+    nav {
+        display: flex;
+        justify-content: space-between;
+
+        a {
+            color: #e41d87;
+        }
+    }
+}
